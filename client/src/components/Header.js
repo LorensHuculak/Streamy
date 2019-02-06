@@ -9,7 +9,7 @@ const Header = () => {
         Streamy
       </Link>
       <div className='right menu'>
-        <Link to='/streams/' className='item'>
+        <Link to='/' className='item'>
           Overview
         </Link>
 
